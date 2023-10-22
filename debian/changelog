@@ -1,4 +1,4 @@
-soapyfcdpp (0.1.1-1+owrx1) UNRELEASED; uregency=low
+soapyfcdpp (0.1.1-1+owrx1) UNRELEASED; urgency=low
 
   * Change package names for SoapySDR 0.8
 
