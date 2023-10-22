@@ -1,3 +1,9 @@
+soapyfcdpp (0.1.1-1+owrx1) UNRELEASED; uregency=low
+
+  * Change package names for SoapySDR 0.8
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sun, 22 Oct 2023 02:46:00 +0000
+
 soapyfcdpp (0.1.1-1) unstable; urgency=low
 
   * Release 0.1.1 (2019-01-26)
